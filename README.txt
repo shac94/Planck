@@ -2,7 +2,7 @@ hey,
 
 start the program by runing web_server.py
 
-open  http://127.0.0.1:5000/
+open  the url
 
 enjoy 
 
