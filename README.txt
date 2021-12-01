@@ -8,8 +8,9 @@ enjoy
 
 in +
 
-I will be happy to work with you I learned a lot from the task
-And I will note that I had no knowledge of the subject, and it is very interesting 
+I will be happy to work with you ,I learned a lot from the task.
+And I will note that I had no knowledge of this subject,
+and it is very interesting 
 
 Thanks!
 
